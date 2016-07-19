@@ -88,7 +88,7 @@ String c=request.getParameter("c");
 	
 	<div id="fh5co-header">
             <div class="container">
-              <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
+              
 			<div id="fh5co-logo">
 				<a href="main.jsp"><%=c %></a>
 			</div>
@@ -157,10 +157,31 @@ String c=request.getParameter("c");
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
-							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
+							<img src="./view/images/p_df.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<a href="loading.jsp" class="transition">
 								<div>
 									
+									<h2 class="fh5co-title">东方新天地</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
+						<div class="img-grid">
+							<img src="./view/images/p_xd.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<a href="loading.jsp" class="transition">
+								<div>
+									<h2 class="fh5co-title">西单大悦城</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
+						<div class="img-grid">
+							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<a href="loading.jsp" class="transition">
+								<div>
 									<h2 class="fh5co-title">荣誉出品</h2>
 								</div>
 							</a>
@@ -169,7 +190,17 @@ String c=request.getParameter("c");
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
 							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
+							<a href="loading.jsp" class="transition">
+								<div>
+									<h2 class="fh5co-title">荣誉出品</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
+						<div class="img-grid">
+							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
+							<a href="loading.jsp" class="transition">
 								<div>
 									<h2 class="fh5co-title">荣誉出品</h2>
 								</div>
@@ -180,38 +211,7 @@ String c=request.getParameter("c");
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
 						<div class="img-grid">
 							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
-								<div>
-									<h2 class="fh5co-title">荣誉出品</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
-								<div>
-									<h2 class="fh5co-title">荣誉出品</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
-								<div>
-									<h2 class="fh5co-title">荣誉出品</h2>
-								</div>
-							</a>
-						</div>
-					</div>
-
-					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-12 animate-box">
-						<div class="img-grid">
-							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
+							<a href="loading.jsp" class="transition">
 								<div>
 									<h2 class="fh5co-title">荣誉出品</h2>
 								</div>
@@ -222,7 +222,7 @@ String c=request.getParameter("c");
 					<div class="col-md-4 col-sm-4 col-xs-6 col-xxs-10 animate-box">
 						<div class="img-grid">
 							<img src="./view/images/p_4.jpg" alt="Free HTML5 template by FREEHTML5.co" class="img-responsive">
-							<a href="portfolio-single.jsp" class="transition">
+							<a href="loading.jsp" class="transition">
 								<div>
 									<h2 class="fh5co-title">荣誉出品</h2>
 								</div>
@@ -261,20 +261,24 @@ String c=request.getParameter("c");
 							<ul class="slides">
 								<li>
 									<blockquote>
-										<p>&ldquo; 我爱学习，学习使我快乐&rdquo; <cite>&mdash; 逗比一号</cite></p>
+										<p>&ldquo; 一个奔跑在考研路上的大长腿女神（我爱学习，学习爱我&rdquo; <cite>&mdash; 逗比一号：陈冰宇</cite></p>
 									</blockquote>
 								</li>
 								<li>
 									<blockquote>
-										<p>&ldquo;如果没有吃的，就是咸鱼&rdquo; <cite>&mdash; 逗比二号</cite></p>
+										<p>&ldquo; 一个热爱猪蹄儿的清新萌妹（如果没有吃的我就是一条咸鱼&rdquo; <cite>&mdash; 逗比二号：倪文雯</cite></p>
 									</blockquote>
 								</li>
 								<li>
 									<blockquote>
-										<p>&ldquo;我已经是咸鱼了&rdquo; <cite>&mdash; 逗比头头</cite></p>
+										<p>&ldquo;一个想成为blingbling的HR的女神经（我已经是咸鱼了&rdquo; <cite>&mdash; 逗比头头：贺孔尼</cite></p>
 									</blockquote>
 								</li>
-								
+								<li>
+									<blockquote>
+										<p>&ldquo;一个想学编程的小助理（组里唯一的清流&rdquo; <cite>&mdash; 逗比头头：王韵迪</cite></p>
+									</blockquote>
+								</li>								
 								
 							</ul>
 						</div>
